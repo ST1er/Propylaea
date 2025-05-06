@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# propylea_nosudo_v2.sh: Runs reconnaissance using locally installed tools.
+# propylaea.sh: Runs reconnaissance using locally installed tools.
 
 # --- Configuration (Must match stall_nosudo_v2.sh) ---
 BASE_OUTPUT_DIR="Recon_v2"

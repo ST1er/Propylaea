@@ -2,7 +2,9 @@ Works best on Linux 22 and up.
 
 Launch the stall.sh to download and maintain tech stack
 
-The gate is all yours (its not perfect yet but its honnest work from a pentesting amateur)
+The gate is all yours , run "bash propylaea.sh 'bugcrowd.com'" , the data is stored in a newly created directory
+
+(its not perfect yet but its honnest work from a pentesting amateur)
 
 
 
